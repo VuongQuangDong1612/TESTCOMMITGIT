@@ -14,9 +14,6 @@
                 <option name="proportions">
                   <list>
                     <option value="0.2" />
-
-                    <option value="0.9" />
-                    <option value="0.8" />
                   </list>
                 </option>
               </splitter-proportions>
