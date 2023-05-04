@@ -3,5 +3,7 @@
     <option name="showModules" value="false" />
     <option name="showModules123" value="false" />
     <option name="showModules456" value="false" />
+    <option name="showModule789" value="false" />
+    <option name="showModules999" value="false" />
   </component>
 </application>
